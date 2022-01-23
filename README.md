@@ -1,1 +1,1 @@
-# Smart_TrashCan
+# 智慧垃圾桶
